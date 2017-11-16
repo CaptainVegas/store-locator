@@ -2,7 +2,7 @@
 
 Store locator is a command-line application that takes an address or zip code as an input and then locates the nearest store.  
 
-The list of store locations data comes from a file included within the project and uses the Google Maps Geocoding API to determine the Longitude and Latitude of the entered address. Distance betwen the store and the the address entered by the user is calculated using the Haversine formula.  
+The list of store locations data comes from a file included within the project and uses the Google Maps Geocoding API to determine the Longitude and Latitude of the entered address. Distance between the store and the address entered by the user is calculated using the Haversine formula.  
 
 ## Usage
 
